@@ -8,8 +8,6 @@
     <img src="https://github.com/maslow123/SimpleChatWithApiGmaps/blob/master/20190722_071207.gif?raw=true" width=300 height=450 align="center"/>
 </p>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 How to use this program ?
 # For Developers !
   - Clone this repo
