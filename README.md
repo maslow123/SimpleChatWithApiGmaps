@@ -7,8 +7,8 @@ How to use this program ?
   - Clone this repo
   - Open your command prompt / terminal, and follow the commands belows
   ``` 
-  npm 
-  install```
+  npm install
+  ```
   - If you done, change your directory to this application
   - follow the commands belows
   ``` 
