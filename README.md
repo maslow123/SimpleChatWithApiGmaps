@@ -6,10 +6,14 @@ How to use this program ?
 # For Developers !
   - Clone this repo
   - Open your command prompt / terminal, and follow the commands belows
-  ``` npm install```
+  ``` 
+  npm 
+  install```
   - If you done, change your directory to this application
   - follow the commands belows
-  ``` react-native run-android```
+  ``` 
+  react-native run-android
+  ```
   - Wait until finish the process
   - And finish, you can develop this application if you want.
   - Happy coding !
