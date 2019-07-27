@@ -4,9 +4,6 @@
     <img src="https://github.com/maslow123/SimpleChatWithApiGmaps/blob/master/20190722_070546.gif?raw=true" width=300 height=450 align="center" style="margin-right:20px"/>
     <img src="https://github.com/maslow123/SimpleChatWithApiGmaps/blob/master/20190722_070813.gif?raw=true" width=300 height=450 align="center"/>
 </p>
-<p align="center">
-    <img src="https://github.com/maslow123/SimpleChatWithApiGmaps/blob/master/20190722_071207.gif?raw=true" width=300 height=450 align="center"/>
-</p>
 
 How to use this program ?
 # For Developers !
